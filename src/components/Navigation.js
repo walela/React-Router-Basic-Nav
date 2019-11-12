@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Navigation = () => {
+const gNavigation = () => {
   return (
     <div>
       <div className="App">
